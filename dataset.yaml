@@ -1,0 +1,7 @@
+path: /content/drive/My Drive/traffic_sign_detection/dataset
+train: images/train
+val: images/val
+test: images/test  # Optional, remove if not using a test set
+
+nc: 9
+names: ['1', '2', '3', '4', '5', '6', '7', '8', '9']
